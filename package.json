@@ -1,0 +1,26 @@
+{
+  "name": "max_node_00",
+  "version": "1.0.0",
+  "description": "Just follow MS Udemy Node course - 1",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "start",
+    "start": "node src/index.js",
+    "dev": " nodemon "
+  },
+  "keywords": [
+    "node",
+    "Maximillian",
+    "Schwarzmuller",
+    "AX07057"
+  ],
+  "author": "AX07057",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "nodemon": "^3.1.0"
+  }
+}
